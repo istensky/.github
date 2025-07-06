@@ -1,0 +1,6 @@
+{
+"name": "Organization CI Workflow",
+"description": "Starter workflow"",
+"IconName": "octicon organization",
+  "cathegories": ["Deployment"]
+}
